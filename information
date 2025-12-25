@@ -1,0 +1,75 @@
+<!DOCTYPE html><html lang="ms">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Website Rasmi</title>
+  <style>
+    body { margin:0; font-family: Arial, sans-serif; background:#f5f7fa; color:#333; }
+    header { background:#0f172a; color:#fff; padding:60px 20px; text-align:center; }
+    header h1 { font-size:36px; margin-bottom:10px; }
+    header p { font-size:18px; opacity:0.9; }
+    .btn { display:inline-block; margin-top:20px; padding:12px 28px; background:#22c55e; color:#fff; text-decoration:none; border-radius:8px; }
+    section { padding:60px 20px; max-width:1100px; margin:auto; }
+    .grid { display:grid; grid-template-columns: repeat(auto-fit, minmax(250px,1fr)); gap:20px; }
+    .card { background:#fff; padding:25px; border-radius:12px; box-shadow:0 10px 20px rgba(0,0,0,0.08); }
+    footer { background:#020617; color:#cbd5f5; text-align:center; padding:20px; }
+  </style>
+</head>
+<body><header>
+  <img src="<!DOCTYPE html><html lang="ms">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Website Rasmi</title>
+  <style>
+    body { margin:0; font-family: Arial, sans-serif; background:#f5f7fa; color:#333; }
+    header { background:#0f172a; color:#fff; padding:60px 20px; text-align:center; }
+    header h1 { font-size:36px; margin-bottom:10px; }
+    header p { font-size:18px; opacity:0.9; }
+    .btn { display:inline-block; margin-top:20px; padding:12px 28px; background:#22c55e; color:#fff; text-decoration:none; border-radius:8px; }
+    section { padding:60px 20px; max-width:1100px; margin:auto; }
+    .grid { display:grid; grid-template-columns: repeat(auto-fit, minmax(250px,1fr)); gap:20px; }
+    .card { background:#fff; padding:25px; border-radius:12px; box-shadow:0 10px 20px rgba(0,0,0,0.08); }
+    footer { background:#020617; color:#cbd5f5; text-align:center; padding:20px; }
+  </style>
+</head>
+<body><header>
+  <img src="IMG-20251225-WA0475.png" alt="Profile" style="width:150px;height:150px;border-radius:50%;border:4px solid #22c55e;margin-bottom:20px;">
+  <h1>KELVIN TEO JEN SIONG</h1>
+  <p>Individu bermotivasi tinggi dari Sarawak yang berminat dalam teknologi, bisnes & pembelajaran berterusan</p>
+  <a href="#contact" class="btn">Hubungi Saya</a>
+</header><section id="about">
+  <h2>Tentang Saya</h2>
+  <p> Saya Kelvin Teo Jen Siong , lahir pada tabun 2006 gen z , tinggi 171 , berat 57kg , berasal dari belaga , NO 13 PASAR BELAGA , BELAGA 96900.</p>
+  <div class="grid">
+    <div class="card">💡 Minat: Teknologi & Digital</div>
+    <div class="card">📈 Fokus: Bisnes & Kewangan</div>
+    <div class="card">🎯 Matlamat: Berkembang & Berjaya</div>
+  </div>
+</section><section id="contact">
+  <h2>Hubungi Saya</h2>
+  <p>Saya terbuka untuk peluang kerjasama, perniagaan dan perbincangan profesional.</p>
+  <a href="https://wa.me/60123456789" class="btn" target="_blank">WhatsApp Saya</a>
+</section><footer>
+  <p>© 2025 KELVIN TEO JEN SIONG. Semua Hak Terpelihara.</p>
+</footer></body>
+</html>" alt="Profile" style="width:150px;height:150px;border-radius:50%;border:4px solid #22c55e;margin-bottom:20px;">
+  <h1>KELVIN TEO JEN SIONG</h1>
+  <p>Saya Kelvin Teo Jen Siong , lahir pada tahun 2006 , gen z , tinggi 171 , berat 57kg , NO 13 PASAR BELAGA , BELAGA 96900 </p>
+  <a href="#contact" class="btn">Hubungi Saya</a>
+</header><section id="about">
+  <h2>Tentang Saya</h2>
+  <p>Saya seorang yang berminat dalam dunia digital, teknologi, dan pembangunan diri. Website ini dibina sebagai platform perkenalan diri, perkongsian maklumat, serta peluang kerjasama pada masa hadapan.</p>
+  <div class="grid">
+    <div class="card">💡 Minat: Teknologi & Digital</div>
+    <div class="card">📈 Fokus: Bisnes & Kewangan</div>
+    <div class="card">🎯 Matlamat: Financial freedom</div>
+  </div>
+</section><section id="contact">
+  <h2>Hubungi Saya</h2>
+  <p>Saya terbuka untuk peluang kerjasama, perniagaan dan perbincangan profesional.</p>
+  <a href="https://wa.me/601112629821" class="btn" target="_blank">WhatsApp Saya</a>
+</section><footer>
+  <p>© 2025 KELVIN TEO JEN SIONG. Semua Hak Terpelihara.</p>
+</footer></body>
+</html>
